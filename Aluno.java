@@ -1,5 +1,7 @@
 import java.util.UUID;
 
+// Gael Felix CB3038912
+
 /**
  * Representa um aluno cadastrado no sistema.
  */
